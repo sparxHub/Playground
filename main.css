@@ -1,0 +1,25 @@
+
+<!-- BEGIN GLOBAL MANDATORY STYLES -->
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/plugins/font-awesome/css/font-awesome.min.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/plugins/simple-line-icons/simple-line-icons.min.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/plugins/bootstrap/css/bootstrap-rtl.min.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/plugins/uniform/css/uniform.default.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/plugins/bootstrap-switch/css/bootstrap-switch-rtl.min.css");
+<!-- END GLOBAL MANDATORY STYLES -->
+<!-- BEGIN PAGE LEVEL PLUGIN STYLES -->
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/plugins/gritter/css/jquery.gritter-rtl.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/plugins/fullcalendar/fullcalendar/fullcalendar.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/plugins/jqvmap/jqvmap/jqvmap.css");
+<!-- END PAGE LEVEL PLUGIN STYLES -->
+<!-- BEGIN PAGE STYLES -->
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/admin/pages/css/tasks-rtl.css");
+<!-- END PAGE STYLES -->
+<!-- BEGIN THEME STYLES -->
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/css/components-rtl.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/global/css/plugins-rtl.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/admin/layout/css/layout-rtl.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/layout/css/themes/default-rtl.css");
+@import url("https://rawgit.com/SparkGithub/Playground/master/assets/layout/css/custom-rtl.css");
+<!-- END THEME STYLES -->
